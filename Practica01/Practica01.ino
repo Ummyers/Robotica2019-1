@@ -1,4 +1,4 @@
-/* Practica 02:
+/* Practica 01:
     Muñiz Patiño Andrea Fernanda
     23/Agosto/2018
     Versión 1.0
