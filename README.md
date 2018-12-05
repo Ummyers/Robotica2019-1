@@ -16,4 +16,5 @@ Después de instalar Energia en `Windows` se deben hacer las siquientes modifica
 
 **Estas modificaciones funcionaron en Agosto del 2018.**
 
-
+Observaciones:
+* Para que el sketch sirva, la carpeta donde esta el __archivo.ino__ debe llamarse igual que el archivo
